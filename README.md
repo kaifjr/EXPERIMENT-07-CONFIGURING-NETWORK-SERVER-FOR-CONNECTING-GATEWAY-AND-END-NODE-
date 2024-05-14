@@ -1,3 +1,6 @@
+###  NAME:KAIF MOHAMED P
+###  ROLL NO :212222043004
+ 
  ### EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
  
 ## Aim: To  configure  the Network server and end device for traferring data on the network
